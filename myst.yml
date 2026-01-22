@@ -13,7 +13,7 @@ project:
   - file: test.md
 
 site:
-  template: book
+  template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
